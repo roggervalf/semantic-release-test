@@ -85,12 +85,12 @@ jobs:
 
               Please review and merge to complete the release process." \
                 --head $BRANCH_NAME \
-                --base master
+                --base main
               
               echo "Created PR for release ${VERSION}"
             else
               echo "No changes to commit after staging files"
-              git checkout master
+              git checkout main
               git branch -D $BRANCH_NAME
             fi
           else
@@ -172,12 +172,12 @@ jobs:
 
               Please review and merge to complete the release process." \
                 --head $BRANCH_NAME \
-                --base master
+                --base main
               
               echo "Created PR for release vpy${VERSION}"
             else
               echo "No changes to commit after staging files"
-              git checkout master
+              git checkout main
               git branch -D $BRANCH_NAME
             fi
           else
