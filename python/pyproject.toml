@@ -1,0 +1,28 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "test"
+version = "1.0.0"
+description='Test'
+readme="README.md"
+authors = [
+    {name = "Rogger"},
+]
+requires-python = ">=3.10.0"
+classifiers=[
+    'Development Status :: 3 - Alpha',
+    'Intended Audience :: Developers',
+    'License :: OSI Approved :: MIT License',
+    'Operating System :: POSIX :: Linux',
+    'Programming Language :: Python :: 3.10',
+]
+keywords = ["python"]
+dependencies = [
+]
+
+[project.optional-dependencies]
+dev = [
+    "build==0.8.0"
+]
