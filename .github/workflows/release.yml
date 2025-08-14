@@ -121,7 +121,7 @@ jobs:
         run: yarn install --frozen-lockfile --non-interactive
       - run: yarn build
       - name: Release Node
-        id: semantic_release
+        id: semantic_release_python
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           PYPI_TOKEN: ${{ secrets.PYPI_TOKEN }}
