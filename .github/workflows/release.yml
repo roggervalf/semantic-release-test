@@ -152,8 +152,7 @@ jobs:
             git config --local user.name "GitHub Action"
             
             # Add and commit changes (only add files that exist)
-            git add package.json || true
-            git add yarn.lock || true
+            git add pyproject.toml || true
             git add ../docs/gitbook/python/changelog.md || true
             
             # Check if there are actually changes to commit after adding
@@ -169,8 +168,7 @@ jobs:
                 --body "Automated release PR for version vpy${VERSION}
 
               This PR contains:
-              - Updated package.json version
-              - Updated yarn.lock (if changed)
+              - Updated pyproject.toml
               - Updated changelog
               - Updated API documentation (if any)
 
