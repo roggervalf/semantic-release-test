@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/roggervalf/semantic-release-test/compare/vpy1.0.0...vpy1.0.1) (2025-08-14)
+
+
+### Bug Fixes
+
+* include pyproject [python] ([e2cea20](https://github.com/roggervalf/semantic-release-test/commit/e2cea20a67a73ee28ea7f051f36b95e91699938e))
+
 # 1.0.0 (2025-08-14)
 
 
