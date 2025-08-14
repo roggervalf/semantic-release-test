@@ -118,20 +118,24 @@ jobs:
           cd python
           pip install build
       - name: Install dependencies Node
-        run: yarn install --frozen-lockfile --non-interactive
-      - run: yarn build
-      - name: Release Node
+        run: |
+          cd python
+          yarn install --frozen-lockfile --non-interactive
+      - name: Release Python
         id: semantic_release_python
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           PYPI_TOKEN: ${{ secrets.PYPI_TOKEN }}
-        run: npx semantic-release
+        run: |
+          cd python
+          npx semantic-release
       - name: Create PR with release changes
-        if: ${{ success() && steps.semantic_release.outcome == 'success' }}
+        if: ${{ success() && steps.semantic_release_python.outcome == 'success' }}
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
+          cd python
           # Check if there are any changes to commit
           if [[ -n $(git status --porcelain) ]]; then
             # Get the version from package.json
