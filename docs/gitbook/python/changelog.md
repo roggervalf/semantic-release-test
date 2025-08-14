@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/roggervalf/semantic-release-test/compare/vpy1.0.2...vpy1.0.3) (2025-08-14)
+
+
+### Bug Fixes
+
+* fix version extraction [python] ([e339129](https://github.com/roggervalf/semantic-release-test/commit/e3391298d3c6c4538c6da43cb11dcf39c5d4ff32))
+
 ## [1.0.1](https://github.com/roggervalf/semantic-release-test/compare/vpy1.0.0...vpy1.0.1) (2025-08-14)
 
 
