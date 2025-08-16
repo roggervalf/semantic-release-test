@@ -1,9 +1,14 @@
 ## [1.0.4](https://github.com/roggervalf/semantic-release-test/compare/vpy1.0.3...vpy1.0.4) (2025-08-16)
 
+### Bug Fixes
+
+* change changelogs [python] ([08fa369](https://github.com/roggervalf/semantic-release-test/commit/08fa36941f7dda10096f950ef6d46a075c9d38e9))
+* install conventional-changelog-conventionalcommits (python) ([d19d490](https://github.com/roggervalf/semantic-release-test/commit/d19d490bc32bee612fbe7403b8c2d72e6cc760a4))
+* update changelog [python] ([820e23e](https://github.com/roggervalf/semantic-release-test/commit/820e23e4480270a01c01bbc9f78ebd6d1912ca6c))
 
 ### Performance Improvements
 
-* perf: try conventionalcommits in notes generator (python) ([bb1ee17](https://github.com/roggervalf/semantic-release-test/commit/bb1ee17))
+* try conventionalcommits in notes generator (python) ([bb1ee17](https://github.com/roggervalf/semantic-release-test/commit/bb1ee174bf63885054a4cdb6b7a40757b5f3c370))
 
 ## [1.0.3](https://github.com/roggervalf/semantic-release-test/compare/vpy1.0.2...vpy1.0.3) (2025-08-14)
 
