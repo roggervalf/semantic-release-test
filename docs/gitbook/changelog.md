@@ -1,3 +1,9 @@
+## [1.3.4](https://github.com/roggervalf/semantic-release-test/compare/v1.3.3...v1.3.4) (2025-08-16)
+
+### Bug Fixes
+
+* **scope:** both packages again try removing version (python) ([f7fcdcf](https://github.com/roggervalf/semantic-release-test/commit/f7fcdcf32074bfbc1c051013b18eb7eb6992559f))
+
 ## [1.3.3](https://github.com/roggervalf/semantic-release-test/compare/v1.3.2...v1.3.3) (2025-08-16)
 
 ### Bug Fixes
