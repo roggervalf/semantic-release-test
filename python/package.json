@@ -1,6 +1,5 @@
 {
   "name": "python-semantic-release",
-  "version": "1.1.0",
   "description": "Semantic release test",
   "author": "Rogger Valverde",
   "license": "MIT",
@@ -120,12 +119,6 @@
         "semantic-release-pypi",
         {
           "pypiPublish": false
-        }
-      ],
-      [
-        "@semantic-release/npm",
-        {
-          "npmPublish": false
         }
       ],
       "@semantic-release/github"
