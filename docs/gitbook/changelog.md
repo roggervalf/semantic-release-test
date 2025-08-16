@@ -1,3 +1,9 @@
+## [1.3.0](https://github.com/roggervalf/semantic-release-test/compare/v1.2.0...v1.3.0) (2025-08-16)
+
+### Features
+
+* **index:** test only js release again ([6a4fca6](https://github.com/roggervalf/semantic-release-test/commit/6a4fca6aef0025631a8873b9316e0b70cc20b772))
+
 ## [1.2.0](https://github.com/roggervalf/semantic-release-test/compare/v1.1.4...v1.2.0) (2025-08-16)
 
 ### Features
