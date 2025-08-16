@@ -32,7 +32,6 @@
     "tsc": "tsc",
     "tsc:all": "tsc && tsc -p tsconfig-cjs.json"
   },
-  "dependencies": {},
   "devDependencies": {
     "@commitlint/cli": "^17.0.3",
     "@commitlint/config-conventional": "^17.0.3",
@@ -48,6 +47,7 @@
     "@typescript-eslint/eslint-plugin": "^8.37.0",
     "@typescript-eslint/parser": "^8.37.0",
     "commitizen": "^4.2.5",
+    "conventional-changelog-conventionalcommits": "^9.1.0",
     "eslint": "^9.32.0",
     "eslint-config-prettier": "^8.5.0",
     "eslint-plugin-prettier": "4.2.1",
