@@ -63,7 +63,25 @@
     "tagFormat": "vpy${version}",
     "plugins": [
       "@semantic-release/commit-analyzer",
-      "@semantic-release/release-notes-generator",
+      [
+        "@semantic-release/release-notes-generator",
+        {
+          "preset": "conventionalcommits",
+          "presetConfig": {
+            "ignoreCommits": "^(?=.*(\\[python\\]|\\(python\\))).*$",
+            "types": [
+              { "type": "feat", "section": "Features" },
+              { "type": "fix", "section": "Bug Fixes" },
+              { "type": "chore", "hidden": true },
+              { "type": "docs", "hidden": true },
+              { "type": "style", "hidden": true },
+              { "type": "test", "hidden": true },
+              { "type": "refactor", "hidden": true },
+              { "type": "perf", "section": "Performance Improvements", "hidden": false }
+            ]
+          }
+        }
+      ],
       [
         "@semantic-release/changelog",
         {
