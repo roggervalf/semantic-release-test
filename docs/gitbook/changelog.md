@@ -1,3 +1,9 @@
+## [1.3.7](https://github.com/roggervalf/semantic-release-test/compare/v1.3.6...v1.3.7) (2025-08-16)
+
+### Bug Fixes
+
+* **scope:** both packages again remove extra npm step (python) ([#19](https://github.com/roggervalf/semantic-release-test/issues/19)) ([40c3631](https://github.com/roggervalf/semantic-release-test/commit/40c36318a7d1312a75182dbe009feb6426bd2840))
+
 ## [1.3.6](https://github.com/roggervalf/semantic-release-test/compare/v1.3.5...v1.3.6) (2025-08-16)
 
 ### Bug Fixes
