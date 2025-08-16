@@ -1,3 +1,9 @@
+## [1.1.0](https://github.com/roggervalf/semantic-release-test/compare/vpy1.0.4...vpy1.1.0) (2025-08-16)
+
+### Features
+
+* **index:** test only js release ([dbc3086](https://github.com/roggervalf/semantic-release-test/commit/dbc308601548a8de9db017bd95c0698684b6240e))
+
 ## [1.0.4](https://github.com/roggervalf/semantic-release-test/compare/vpy1.0.3...vpy1.0.4) (2025-08-16)
 
 ### Bug Fixes
