@@ -1,6 +1,6 @@
 {
   "name": "semantic-release-test",
-  "version": "1.1.2",
+  "version": "1.1.3",
   "description": "Semantic release test",
   "main": "./dist/cjs/index.js",
   "module": "./dist/esm/index.js",
@@ -96,14 +96,39 @@
           "presetConfig": {
             "ignoreCommits": "^(?!.*\\[python\\]).*$",
             "types": [
-              { "type": "feat", "section": "Features" },
-              { "type": "fix", "section": "Bug Fixes" },
-              { "type": "chore", "hidden": true },
-              { "type": "docs", "hidden": true },
-              { "type": "style", "hidden": true },
-              { "type": "test", "hidden": true },
-              { "type": "refactor", "hidden": true },
-              { "type": "perf", "section": "Performance Improvements", "hidden": false }
+              {
+                "type": "feat",
+                "section": "Features"
+              },
+              {
+                "type": "fix",
+                "section": "Bug Fixes"
+              },
+              {
+                "type": "chore",
+                "hidden": true
+              },
+              {
+                "type": "docs",
+                "hidden": true
+              },
+              {
+                "type": "style",
+                "hidden": true
+              },
+              {
+                "type": "test",
+                "hidden": true
+              },
+              {
+                "type": "refactor",
+                "hidden": true
+              },
+              {
+                "type": "perf",
+                "section": "Performance Improvements",
+                "hidden": false
+              }
             ]
           }
         }
