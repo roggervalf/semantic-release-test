@@ -10,13 +10,6 @@
 
 * try conventionalcommits in notes generator (python) ([bb1ee17](https://github.com/roggervalf/semantic-release-test/commit/bb1ee174bf63885054a4cdb6b7a40757b5f3c370))
 
-## [1.0.4](https://github.com/roggervalf/semantic-release-test/compare/vpy1.0.3...vpy1.0.4) (2025-08-16)
-
-
-### Performance Improvements
-
-* perf: try conventionalcommits in notes generator (python) ([bb1ee17](https://github.com/roggervalf/semantic-release-test/commit/bb1ee17))
-
 ## [1.0.3](https://github.com/roggervalf/semantic-release-test/compare/vpy1.0.2...vpy1.0.3) (2025-08-14)
 
 
