@@ -1,6 +1,6 @@
 {
   "name": "semantic-release-test",
-  "version": "1.3.1",
+  "version": "1.3.2",
   "description": "Semantic release test",
   "main": "./dist/cjs/index.js",
   "module": "./dist/esm/index.js",
