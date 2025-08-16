@@ -1,20 +1,16 @@
 ## [1.1.4](https://github.com/roggervalf/semantic-release-test/compare/v1.1.3...v1.1.4) (2025-08-16)
 
+
 ### Bug Fixes
 
 * install conventional-changelog-conventionalcommits (python) ([d19d490](https://github.com/roggervalf/semantic-release-test/commit/d19d490bc32bee612fbe7403b8c2d72e6cc760a4))
 
-## <small>1.1.3 (2025-08-16)</small>
+## [1.1.3](https://github.com/roggervalf/semantic-release-test/compare/v1.1.2...v1.1.3) (2025-08-16)
+
+
+### Performance Improvements
 
 * perf: try conventionalcommits in notes generator (python) ([bb1ee17](https://github.com/roggervalf/semantic-release-test/commit/bb1ee17))
-* chore(release): v1.1.2 (#2) ([7bc6914](https://github.com/roggervalf/semantic-release-test/commit/7bc6914)), closes [#2](https://github.com/roggervalf/semantic-release-test/issues/2)
-* chore(release): vpy1.0.0 (#3) ([efe532b](https://github.com/roggervalf/semantic-release-test/commit/efe532b)), closes [#3](https://github.com/roggervalf/semantic-release-test/issues/3)
-* chore(release): vpy1.0.1 (#4) ([bfb6e3d](https://github.com/roggervalf/semantic-release-test/commit/bfb6e3d)), closes [#4](https://github.com/roggervalf/semantic-release-test/issues/4)
-* chore(release): vpy1.0.3 (#5) ([c2e7b01](https://github.com/roggervalf/semantic-release-test/commit/c2e7b01)), closes [#5](https://github.com/roggervalf/semantic-release-test/issues/5)
-* fix: fix version extraction [python] ([e339129](https://github.com/roggervalf/semantic-release-test/commit/e339129))
-* fix: get version from pyproject [python] ([47139be](https://github.com/roggervalf/semantic-release-test/commit/47139be))
-* fix: include pyproject [python] ([e2cea20](https://github.com/roggervalf/semantic-release-test/commit/e2cea20))
-* fix: try only python [python] ([b39f1d4](https://github.com/roggervalf/semantic-release-test/commit/b39f1d4))
 
 ## [1.1.2](https://github.com/roggervalf/semantic-release-test/compare/v1.1.1...v1.1.2) (2025-08-14)
 
