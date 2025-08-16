@@ -1,3 +1,9 @@
+## [1.1.4](https://github.com/roggervalf/semantic-release-test/compare/v1.1.3...v1.1.4) (2025-08-16)
+
+### Bug Fixes
+
+* install conventional-changelog-conventionalcommits (python) ([d19d490](https://github.com/roggervalf/semantic-release-test/commit/d19d490bc32bee612fbe7403b8c2d72e6cc760a4))
+
 ## <small>1.1.3 (2025-08-16)</small>
 
 * perf: try conventionalcommits in notes generator (python) ([bb1ee17](https://github.com/roggervalf/semantic-release-test/commit/bb1ee17))
