@@ -1,3 +1,9 @@
+## [1.3.1](https://github.com/roggervalf/semantic-release-test/compare/v1.3.0...v1.3.1) (2025-08-16)
+
+### Bug Fixes
+
+* **test:** both packages (python) ([e47dc20](https://github.com/roggervalf/semantic-release-test/commit/e47dc203c2691ab9ba56ff52f50afaff3f275237))
+
 ## [1.3.0](https://github.com/roggervalf/semantic-release-test/compare/v1.2.0...v1.3.0) (2025-08-16)
 
 ### Features
