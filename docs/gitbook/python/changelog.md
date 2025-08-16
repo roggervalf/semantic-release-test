@@ -1,7 +1,5 @@
-## <small>1.0.4 (2025-08-16)</small>
+## [1.0.4](https://github.com/roggervalf/semantic-release-test/compare/vpy1.0.3...vpy1.0.4) (2025-08-16)
 
-* chore(release): v1.1.3 ([a5004e2](https://github.com/roggervalf/semantic-release-test/commit/a5004e2))
-* chore(release): vpy1.0.3 (#5) ([c2e7b01](https://github.com/roggervalf/semantic-release-test/commit/c2e7b01)), closes [#5](https://github.com/roggervalf/semantic-release-test/issues/5)
 * perf: try conventionalcommits in notes generator (python) ([bb1ee17](https://github.com/roggervalf/semantic-release-test/commit/bb1ee17))
 
 ## [1.0.3](https://github.com/roggervalf/semantic-release-test/compare/vpy1.0.2...vpy1.0.3) (2025-08-14)
