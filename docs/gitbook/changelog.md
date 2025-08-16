@@ -1,3 +1,9 @@
+## [1.3.9](https://github.com/roggervalf/semantic-release-test/compare/v1.3.8...v1.3.9) (2025-08-16)
+
+### Bug Fixes
+
+* **scope:** both packages again 2 (python) ([acae9ef](https://github.com/roggervalf/semantic-release-test/commit/acae9ef5ea3c334ba742cea621245f2d13abd713))
+
 ## [1.3.8](https://github.com/roggervalf/semantic-release-test/compare/v1.3.7...v1.3.8) (2025-08-16)
 
 ### Bug Fixes
