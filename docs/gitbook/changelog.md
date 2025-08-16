@@ -1,3 +1,9 @@
+## [1.3.3](https://github.com/roggervalf/semantic-release-test/compare/v1.3.2...v1.3.3) (2025-08-16)
+
+### Bug Fixes
+
+* **scope:** both packages again try hidden false (python) ([de4bce4](https://github.com/roggervalf/semantic-release-test/commit/de4bce458605a5c2157c15d53da30a9d55faac64))
+
 ## [1.3.2](https://github.com/roggervalf/semantic-release-test/compare/v1.3.1...v1.3.2) (2025-08-16)
 
 ### Bug Fixes
