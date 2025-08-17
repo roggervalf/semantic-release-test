@@ -62,13 +62,27 @@
   "release": {
     "tagFormat": "vpy${version}",
     "plugins": [
-      "@semantic-release/commit-analyzer",
+      [
+        "@semantic-release/commit-analyzer",
+        {
+          "releaseRules": [
+            {
+              "message": "!**\\[python\\]**",
+              "release": false
+            },
+            {
+              "message": "!**\\(python\\)**",
+              "release": false
+            }
+          ]
+        }
+      ],
       [
         "@semantic-release/release-notes-generator",
         {
           "preset": "conventionalcommits",
           "presetConfig": {
-            "ignoreCommits": "!*(\\[python\\]|\\(python\\)))*",
+            "ignoreCommits": "!*(\\[python\\]|\\(python\\))",
             "types": [
               {
                 "type": "feat",

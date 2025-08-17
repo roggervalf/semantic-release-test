@@ -94,7 +94,7 @@
         {
           "preset": "conventionalcommits",
           "presetConfig": {
-            "ignoreCommits": "*\\[python\\]*",
+            "ignoreCommits": "**\\[python\\]**",
             "types": [
               {
                 "type": "feat",
