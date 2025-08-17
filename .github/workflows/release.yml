@@ -73,7 +73,7 @@ jobs:
               
               # Create PR using GitHub CLI
               gh pr create \
-                --title "chore(release): ${VERSION}" \
+                --title "chore(release): v${VERSION}" \
                 --body "Automated release PR for version ${VERSION}
 
               This PR contains:
