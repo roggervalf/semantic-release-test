@@ -67,11 +67,7 @@
         {
           "releaseRules": [
             {
-              "message": "!**\\[python\\]**",
-              "release": false
-            },
-            {
-              "message": "!**\\(python\\)**",
+              "message": "!(*\\(python\\)*|*\\[python\\]*)",
               "release": false
             }
           ]
