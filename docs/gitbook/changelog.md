@@ -1,3 +1,9 @@
+## [1.4.0](https://github.com/roggervalf/semantic-release-test/compare/v1.3.13...v1.4.0) (2025-08-17)
+
+### Features
+
+* **scope:** commit only for js ([598f443](https://github.com/roggervalf/semantic-release-test/commit/598f443583c9adf093026e9f6c57b66fb7f676d3))
+
 ## [1.3.13](https://github.com/roggervalf/semantic-release-test/compare/v1.3.12...v1.3.13) (2025-08-17)
 
 ### Bug Fixes
