@@ -1,3 +1,9 @@
+## [1.3.11](https://github.com/roggervalf/semantic-release-test/compare/v1.3.10...v1.3.11) (2025-08-17)
+
+### Bug Fixes
+
+* **scope:** address warning about backslash second try (python) ([02cdacc](https://github.com/roggervalf/semantic-release-test/commit/02cdaccf98af679f469f81ace501588486f5d5dc))
+
 ## [1.3.10](https://github.com/roggervalf/semantic-release-test/compare/v1.3.9...v1.3.10) (2025-08-17)
 
 ### Bug Fixes
