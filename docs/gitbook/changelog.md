@@ -1,3 +1,9 @@
+## [1.5.1](https://github.com/roggervalf/semantic-release-test/compare/v1.5.0...v1.5.1) (2025-08-17)
+
+### Bug Fixes
+
+* **scope:** only js ([feaa798](https://github.com/roggervalf/semantic-release-test/commit/feaa798740a3be66d88fecf0fee5e012260f7e2a))
+
 ## [1.5.0](https://github.com/roggervalf/semantic-release-test/compare/v1.4.1...v1.5.0) (2025-08-17)
 
 ### Features
