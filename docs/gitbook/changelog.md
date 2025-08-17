@@ -1,3 +1,9 @@
+## [1.5.0](https://github.com/roggervalf/semantic-release-test/compare/v1.4.1...v1.5.0) (2025-08-17)
+
+### Features
+
+* **scope:** test [pyhton] ([7de506b](https://github.com/roggervalf/semantic-release-test/commit/7de506bc43bc3f9562abe4da3ffd2d5770ccfbd2))
+
 ## [1.4.1](https://github.com/roggervalf/semantic-release-test/compare/v1.4.0...v1.4.1) (2025-08-17)
 
 ### Features
