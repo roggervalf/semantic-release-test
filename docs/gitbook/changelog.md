@@ -1,3 +1,9 @@
+## [1.3.12](https://github.com/roggervalf/semantic-release-test/compare/v1.3.11...v1.3.12) (2025-08-17)
+
+### Bug Fixes
+
+* **scope:** use detached reference of main (python) ([c78f77b](https://github.com/roggervalf/semantic-release-test/commit/c78f77b6ed849bf3132999d7507c382b77047fbd))
+
 ## [1.3.11](https://github.com/roggervalf/semantic-release-test/compare/v1.3.10...v1.3.11) (2025-08-17)
 
 ### Bug Fixes
