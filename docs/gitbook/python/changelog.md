@@ -1,3 +1,9 @@
+## [1.2.1](https://github.com/roggervalf/semantic-release-test/compare/vpy1.2.0...vpy1.2.1) (2025-08-17)
+
+### Bug Fixes
+
+* **scope:** both packages (python) ([539aa07](https://github.com/roggervalf/semantic-release-test/commit/539aa07826eeb66caf004d26e5a51cafd6d3e61c))
+
 ## [1.2.0](https://github.com/roggervalf/semantic-release-test/compare/vpy1.1.1...vpy1.2.0) (2025-08-17)
 
 ### Features
