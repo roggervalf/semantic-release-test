@@ -1,3 +1,14 @@
+## [1.3.1](https://github.com/roggervalf/semantic-release-test/compare/vpy1.3.0...vpy1.3.1) (2025-08-17)
+
+### Features
+
+* only js ([a16de11](https://github.com/roggervalf/semantic-release-test/commit/a16de1141233b648bedb45fbcf981d18b0bab3be))
+
+### Bug Fixes
+
+* only py [pyhton] ([ff9beb3](https://github.com/roggervalf/semantic-release-test/commit/ff9beb31839f854b487df21d7b07230bd5c79475))
+* only py [python] ([813d774](https://github.com/roggervalf/semantic-release-test/commit/813d7742bfe0837258d646827a00d580c33f233c))
+
 ## [1.3.0](https://github.com/roggervalf/semantic-release-test/compare/vpy1.2.1...vpy1.3.0) (2025-08-17)
 
 ### Features
