@@ -93,8 +93,8 @@
         "@semantic-release/release-notes-generator",
         {
           "preset": "conventionalcommits",
-          "ignoreCommits": "\\[python\\]",
           "presetConfig": {
+            "ignoreCommits": "\\[python\\]",
             "types": [
               {
                 "type": "feat",

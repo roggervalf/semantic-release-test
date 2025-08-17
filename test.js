@@ -157,3 +157,10 @@ console.log(
         : undefined,
   ),
 );
+
+console.log('regex');
+console.log(new RegExp('\\[python\\]').test('hola'));
+console.log(new RegExp('\\[python\\]').test('[python]'));
+console.log(new RegExp('\\[python\\]').test('hola [python]'));
+console.log(new RegExp('\\[python\\]').test('[python] hola'));
+console.log(new RegExp('\\[python\\]').test('[python1] hola'));
