@@ -89,10 +89,10 @@ jobs:
               
               echo "Created PR for release ${VERSION}"
               # Back to main branch for next releases if needed
-              git checkout main
+              git checkout origin/main
             else
               echo "No changes to commit after staging files"
-              git checkout main
+              git checkout origin/main
               git branch -D $BRANCH_NAME
             fi
           else
@@ -175,9 +175,11 @@ jobs:
                 --base main
               
               echo "Created PR for release vpy${VERSION}"
+              # Back to main branch for next releases if needed
+              git checkout origin/main
             else
               echo "No changes to commit after staging files"
-              git checkout main
+              git checkout origin/main
               git branch -D $BRANCH_NAME
             fi
           else
