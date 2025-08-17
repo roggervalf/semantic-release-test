@@ -1,3 +1,13 @@
+## [1.4.1](https://github.com/roggervalf/semantic-release-test/compare/v1.4.0...v1.4.1) (2025-08-17)
+
+### Features
+
+* **scope:** commit only for [python] ([d63ab91](https://github.com/roggervalf/semantic-release-test/commit/d63ab9168a4d0d3ba4652addfe0fc930cbb65f80))
+
+### Bug Fixes
+
+* **scope:** both packages (python) ([539aa07](https://github.com/roggervalf/semantic-release-test/commit/539aa07826eeb66caf004d26e5a51cafd6d3e61c))
+
 ## [1.4.0](https://github.com/roggervalf/semantic-release-test/compare/v1.3.13...v1.4.0) (2025-08-17)
 
 ### Features
