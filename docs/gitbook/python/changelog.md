@@ -1,3 +1,9 @@
+## [1.1.1](https://github.com/roggervalf/semantic-release-test/compare/vpy1.1.0...vpy1.1.1) (2025-08-17)
+
+### Bug Fixes
+
+* **scope:** try new change both packages (python) ([96789a1](https://github.com/roggervalf/semantic-release-test/commit/96789a10bb659f1f3bfd84b86099a3ff765989ce))
+
 ## [1.1.0](https://github.com/roggervalf/semantic-release-test/compare/vpy1.0.4...vpy1.1.0) (2025-08-17)
 
 ### Features
