@@ -1,3 +1,17 @@
+## [1.6.0](https://github.com/roggervalf/semantic-release-test/compare/vpy1.5.0...vpy1.6.0) (2025-09-05)
+
+### Features
+
+* only py [python] ([5bf1448](https://github.com/roggervalf/semantic-release-test/commit/5bf1448fcdec26e240b0143a8d339a85b58dfe48))
+* only py [python] ([95ee707](https://github.com/roggervalf/semantic-release-test/commit/95ee7072842a09a9c9dc0325543ec67a29231844))
+
+### Bug Fixes
+
+* only js ([7f049b2](https://github.com/roggervalf/semantic-release-test/commit/7f049b28e2c415f564cdc86696bff5d1e9c67206))
+* only js ([a6dbd28](https://github.com/roggervalf/semantic-release-test/commit/a6dbd28f236f7c4bae5e7548b94f1dd97a0cf863))
+* only js ([f25baa5](https://github.com/roggervalf/semantic-release-test/commit/f25baa5ea223bb29b26925dbc387f766832f44af))
+* upgrade release notes [python] ([#50](https://github.com/roggervalf/semantic-release-test/issues/50)) ([1fbaa82](https://github.com/roggervalf/semantic-release-test/commit/1fbaa82d250cdfdbc35ff3342b6db0b22a17c367))
+
 ## [1.5.0](https://github.com/roggervalf/semantic-release-test/compare/vpy1.4.0...vpy1.5.0) (2025-08-17)
 
 ### Features
