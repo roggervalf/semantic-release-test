@@ -28,6 +28,7 @@
     "prettier": "prettier --config package.json src/**/*.ts",
     "pretty:quick": "pretty-quick --staged",
     "semantic-release": "semantic-release",
+    "semantic-release:debug": "semantic-release --no-ci --dry-run --debug",
     "semantic-release-prepare": "ts-node tools/semantic-release-prepare",
     "tsc": "tsc",
     "tsc:all": "tsc && tsc -p tsconfig-cjs.json"
@@ -42,7 +43,7 @@
     "@semantic-release/git": "^10.0.1",
     "@semantic-release/github": "^11.0.1",
     "@semantic-release/npm": "^11.0.3",
-    "@semantic-release/release-notes-generator": "^10.0.3",
+    "@semantic-release/release-notes-generator": "^14.1.0",
     "@types/node": "^12.20.25",
     "@typescript-eslint/eslint-plugin": "^8.37.0",
     "@typescript-eslint/parser": "^8.37.0",
