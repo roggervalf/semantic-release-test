@@ -1,3 +1,13 @@
+## [1.6.6](https://github.com/roggervalf/semantic-release-test/compare/v1.6.5...v1.6.6) (2025-08-17)
+
+### Features
+
+* only py [python] ([5bf1448](https://github.com/roggervalf/semantic-release-test/commit/5bf1448fcdec26e240b0143a8d339a85b58dfe48))
+
+### Bug Fixes
+
+* only js ([7f049b2](https://github.com/roggervalf/semantic-release-test/commit/7f049b28e2c415f564cdc86696bff5d1e9c67206))
+
 ## [1.6.5](https://github.com/roggervalf/semantic-release-test/compare/v1.6.4...v1.6.5) (2025-08-17)
 
 ### Features
