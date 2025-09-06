@@ -1,3 +1,9 @@
+## [1.6.9](https://github.com/roggervalf/semantic-release-test/compare/v1.6.8...v1.6.9) (2025-09-06)
+
+### Bug Fixes
+
+* both languages (python) ([7ca9500](https://github.com/roggervalf/semantic-release-test/commit/7ca9500bad62787103b3582c6166a068e2f449c9))
+
 ## [1.6.8](https://github.com/roggervalf/semantic-release-test/compare/v1.6.7...v1.6.8) (2025-09-06)
 
 ### Bug Fixes
