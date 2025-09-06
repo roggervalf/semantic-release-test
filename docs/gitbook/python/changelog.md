@@ -1,3 +1,13 @@
+## [1.7.0](https://github.com/roggervalf/semantic-release-test/compare/vpy1.6.0...vpy1.7.0) (2025-09-06)
+
+### Features
+
+* only py [python] ([4d4f69d](https://github.com/roggervalf/semantic-release-test/commit/4d4f69d1b67f03663587002a26c5d83ad70505b5))
+
+### Bug Fixes
+
+* both languages (python) ([7ca9500](https://github.com/roggervalf/semantic-release-test/commit/7ca9500bad62787103b3582c6166a068e2f449c9))
+
 ## [1.6.0](https://github.com/roggervalf/semantic-release-test/compare/vpy1.5.0...vpy1.6.0) (2025-09-05)
 
 ### Features
