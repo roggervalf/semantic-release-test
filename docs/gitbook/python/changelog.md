@@ -1,3 +1,9 @@
+## [1.7.1](https://github.com/roggervalf/semantic-release-test/compare/vpy1.7.0...vpy1.7.1) (2025-09-07)
+
+### Bug Fixes
+
+* reduce dependencies [python] ([#56](https://github.com/roggervalf/semantic-release-test/issues/56)) ([e0b5169](https://github.com/roggervalf/semantic-release-test/commit/e0b51698b5b45506d83692111a33cd5f9c8a3eed))
+
 ## [1.7.0](https://github.com/roggervalf/semantic-release-test/compare/vpy1.6.0...vpy1.7.0) (2025-09-06)
 
 ### Features
