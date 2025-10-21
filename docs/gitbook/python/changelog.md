@@ -1,3 +1,10 @@
+## [1.7.5](https://github.com/roggervalf/semantic-release-test/compare/vpy1.7.4...vpy1.7.5) (2025-10-21)
+
+
+### Performance Improvements
+
+* only [python] ([9e5319f](https://github.com/roggervalf/semantic-release-test/commit/9e5319f1d8a3f904c48843b16a4cc39798b2adda))
+
 ## [1.7.4](https://github.com/roggervalf/semantic-release-test/compare/vpy1.7.3...vpy1.7.4) (2025-10-21)
 
 
