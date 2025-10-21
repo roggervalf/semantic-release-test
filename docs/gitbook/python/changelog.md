@@ -1,3 +1,10 @@
+# [1.8.0](https://github.com/roggervalf/semantic-release-test/compare/vpy1.7.5...vpy1.8.0) (2025-10-21)
+
+
+### Features
+
+* both (python) ([87e848b](https://github.com/roggervalf/semantic-release-test/commit/87e848b4ed2c41697122fd1a590b48a41c5362a4))
+
 ## [1.7.5](https://github.com/roggervalf/semantic-release-test/compare/vpy1.7.4...vpy1.7.5) (2025-10-21)
 
 
