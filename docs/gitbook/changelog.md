@@ -1,3 +1,10 @@
+## [1.10.1](https://github.com/roggervalf/semantic-release-test/compare/v1.10.0...v1.10.1) (2025-10-21)
+
+
+### Performance Improvements
+
+* only js ([c4f1e46](https://github.com/roggervalf/semantic-release-test/commit/c4f1e46178f61e86edd146c87612d882cc0263d5))
+
 # [1.10.0](https://github.com/roggervalf/semantic-release-test/compare/v1.9.1...v1.10.0) (2025-10-21)
 
 
