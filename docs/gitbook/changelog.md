@@ -1,3 +1,10 @@
+## [1.7.1](https://github.com/roggervalf/semantic-release-test/compare/v1.7.0...v1.7.1) (2025-10-21)
+
+
+### Bug Fixes
+
+* upgrade semantic-release (python) ([#60](https://github.com/roggervalf/semantic-release-test/issues/60)) ([4d7b910](https://github.com/roggervalf/semantic-release-test/commit/4d7b910ae9b020e443789fc247da659672991ec3))
+
 ## [1.7.0](https://github.com/roggervalf/semantic-release-test/compare/v1.6.9...v1.7.0) (2025-09-07)
 
 ### Features
