@@ -1,3 +1,15 @@
+## [1.7.2](https://github.com/roggervalf/semantic-release-test/compare/vpy1.7.1...vpy1.7.2) (2025-10-21)
+
+
+### Bug Fixes
+
+* upgrade semantic-release (python) ([#60](https://github.com/roggervalf/semantic-release-test/issues/60)) ([4d7b910](https://github.com/roggervalf/semantic-release-test/commit/4d7b910ae9b020e443789fc247da659672991ec3))
+
+
+### Features
+
+* **test:** only js ([#58](https://github.com/roggervalf/semantic-release-test/issues/58)) ([d9ed343](https://github.com/roggervalf/semantic-release-test/commit/d9ed343b8ceedd84305d9a7f7d3102d5291efa41))
+
 ## [1.7.1](https://github.com/roggervalf/semantic-release-test/compare/vpy1.7.0...vpy1.7.1) (2025-09-07)
 
 ### Bug Fixes
