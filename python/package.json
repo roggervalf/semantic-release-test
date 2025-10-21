@@ -50,9 +50,8 @@
       [
         "@semantic-release/release-notes-generator",
         {
-          "presetConfig": {
-            "ignoreCommits": "^(?![^]*\\(python\\))(?![^]*\\[python\\]).*$"
-          }
+          "preset": "angular",
+          "ignoreCommits": "^(?![^]*\\(python\\))(?![^]*\\[python\\]).*$"
         }
       ],
       [
