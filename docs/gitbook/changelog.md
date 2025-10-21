@@ -5,6 +5,13 @@
 
 * only js ([c4f1e46](https://github.com/roggervalf/semantic-release-test/commit/c4f1e46178f61e86edd146c87612d882cc0263d5))
 
+# [1.10.0](https://github.com/roggervalf/semantic-release-test/compare/v1.9.1...v1.10.0) (2025-10-21)
+
+
+### Features
+
+* both (python) ([87e848b](https://github.com/roggervalf/semantic-release-test/commit/87e848b4ed2c41697122fd1a590b48a41c5362a4))
+
 ## [1.9.1](https://github.com/roggervalf/semantic-release-test/compare/v1.9.0...v1.9.1) (2025-10-21)
 
 
