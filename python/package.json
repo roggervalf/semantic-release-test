@@ -19,13 +19,13 @@
     "@commitlint/config-conventional": "^17.0.3",
     "@semantic-release/changelog": "^6.0.1",
     "@semantic-release/commit-analyzer": "^13.0.1",
-    "@semantic-release/exec": "^6.0.3",
+    "@semantic-release/exec": "^7.1.0",
     "@semantic-release/git": "^10.0.1",
-    "@semantic-release/github": "^11.0.1",
-    "@semantic-release/npm": "^11.0.3",
+    "@semantic-release/github": "^12.0.0",
+    "@semantic-release/npm": "^13.1.1",
     "@semantic-release/release-notes-generator": "^14.1.0",
     "conventional-changelog-conventionalcommits": "^9.1.0",
-    "semantic-release": "^24.2.7",
+    "semantic-release": "^25.0.1",
     "semantic-release-pypi": "^5.1.1"
   },
   "commitlint": {
@@ -50,46 +50,8 @@
       [
         "@semantic-release/release-notes-generator",
         {
-          "preset": "conventionalcommits",
           "presetConfig": {
-            "ignoreCommits": "^(?![^]*\\(python\\))(?![^]*\\[python\\]).*$",
-            "types": [
-              {
-                "type": "feat",
-                "section": "Features",
-                "hidden": false
-              },
-              {
-                "type": "fix",
-                "section": "Bug Fixes",
-                "hidden": false
-              },
-              {
-                "type": "chore",
-                "hidden": true
-              },
-              {
-                "type": "docs",
-                "hidden": true
-              },
-              {
-                "type": "style",
-                "hidden": true
-              },
-              {
-                "type": "test",
-                "hidden": true
-              },
-              {
-                "type": "refactor",
-                "hidden": true
-              },
-              {
-                "type": "perf",
-                "section": "Performance Improvements",
-                "hidden": false
-              }
-            ]
+            "ignoreCommits": "^(?![^]*\\(python\\))(?![^]*\\[python\\]).*$"
           }
         }
       ],
@@ -107,6 +69,10 @@
       ],
       "@semantic-release/github"
     ]
+  },
+  "resolutions": {
+    "@semantic-release/commit-analyzer/conventional-changelog-angular": "8.1.0",
+    "@semantic-release/release-notes-generator/conventional-changelog-angular": "8.1.0"
   },
   "packageManager": "yarn@1.22.22"
 }
