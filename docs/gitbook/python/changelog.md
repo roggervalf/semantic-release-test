@@ -1,3 +1,10 @@
+## [1.7.4](https://github.com/roggervalf/semantic-release-test/compare/vpy1.7.3...vpy1.7.4) (2025-10-21)
+
+
+### Bug Fixes
+
+* only [python] ([#69](https://github.com/roggervalf/semantic-release-test/issues/69)) ([ae84c5c](https://github.com/roggervalf/semantic-release-test/commit/ae84c5c1fb8c49e584e83326cc41a93522a7e05b))
+
 ## [1.7.3](https://github.com/roggervalf/semantic-release-test/compare/vpy1.7.2...vpy1.7.3) (2025-10-21)
 
 
