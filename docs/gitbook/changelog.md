@@ -1,3 +1,10 @@
+# [1.9.0](https://github.com/roggervalf/semantic-release-test/compare/v1.8.0...v1.9.0) (2025-10-21)
+
+
+### Features
+
+* only js ([#67](https://github.com/roggervalf/semantic-release-test/issues/67)) ([fd9c2e2](https://github.com/roggervalf/semantic-release-test/commit/fd9c2e22b0ec03e4685dfea9a2c29e0afa98b96e))
+
 # [1.8.0](https://github.com/roggervalf/semantic-release-test/compare/v1.7.1...v1.8.0) (2025-10-21)
 
 
