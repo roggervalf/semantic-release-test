@@ -1,3 +1,18 @@
+# 1.0.0 (2025-12-10)
+
+
+### Bug Fixes
+
+* fix exec command [elixir] ([5111da4](https://github.com/roggervalf/semantic-release-test/commit/5111da48a5018b5e62459f2ed9e2b97f56dbb5aa))
+* fix pr generation [elixir] ([854d5c3](https://github.com/roggervalf/semantic-release-test/commit/854d5c3815f2df52c0c6f89eeb345dcbe6422fb9))
+* fix pr generation [elixir] ([093a5bb](https://github.com/roggervalf/semantic-release-test/commit/093a5bbcffb2a06013fd943e3a5da137d31d5d80))
+* ignore elixir commits from node [elixir] ([0143fa0](https://github.com/roggervalf/semantic-release-test/commit/0143fa0a1025ed273f3deb8fc61a1bb0f8bbe592))
+
+
+### Features
+
+* initial elixir setup [elixir] ([#77](https://github.com/roggervalf/semantic-release-test/issues/77)) ([60ed2a0](https://github.com/roggervalf/semantic-release-test/commit/60ed2a00ed675d2882ecf236ec1371fe01de3a9b))
+
 # Elixir Changelog
 
 All notable changes to the Elixir library will be documented in this file.
