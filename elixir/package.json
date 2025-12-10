@@ -60,7 +60,7 @@
       [
         "@semantic-release/exec",
         {
-          "prepareCmd": "node scripts/updateVersion.js ${nextRelease.version} && yarn build"
+          "prepareCmd": "node scripts/updateVersion.js ${nextRelease.version}"
         }
       ],
       [
