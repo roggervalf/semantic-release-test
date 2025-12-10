@@ -257,7 +257,7 @@ jobs:
 
               Please review and merge to complete the release process." \
                 --head $BRANCH_NAME \
-                --base master
+                --base main
               
               echo "Created PR for release vex${VERSION}"
               # Back to main branch for next releases if needed
