@@ -116,9 +116,6 @@
       "@semantic-release/github"
     ]
   },
-  "resolutions": {
-    "brace-expansion": ">=1.1.13",
-    "picomatch": ">=2.3.2"
-  },
+  "resolutions": {},
   "packageManager": "yarn@1.22.22"
 }
