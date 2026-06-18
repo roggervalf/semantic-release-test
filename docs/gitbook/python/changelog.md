@@ -1,3 +1,10 @@
+# [1.9.0](https://github.com/roggervalf/semantic-release-test/compare/vpy1.8.3...vpy1.9.0) (2026-06-18)
+
+
+### Features
+
+* expand Queue/Job/Worker API parity with Node.js BullMQ [python] ([#85](https://github.com/roggervalf/semantic-release-test/issues/85)) ([6526bea](https://github.com/roggervalf/semantic-release-test/commit/6526bea011ed89ae805e8f7c7ec338da4c00f428))
+
 ## [1.8.3](https://github.com/roggervalf/semantic-release-test/compare/vpy1.8.2...vpy1.8.3) (2026-06-18)
 
 
