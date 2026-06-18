@@ -1,3 +1,10 @@
+## [1.8.3](https://github.com/roggervalf/semantic-release-test/compare/vpy1.8.2...vpy1.8.3) (2026-06-18)
+
+
+### Bug Fixes
+
+* try brace-expansion resolution [python] ([#83](https://github.com/roggervalf/semantic-release-test/issues/83)) ([1a7cdc3](https://github.com/roggervalf/semantic-release-test/commit/1a7cdc3243133f20fb7c511f330d22f7b831dfe9))
+
 ## [1.8.2](https://github.com/roggervalf/semantic-release-test/compare/vpy1.8.1...vpy1.8.2) (2026-06-18)
 
 
