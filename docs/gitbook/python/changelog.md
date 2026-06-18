@@ -1,3 +1,10 @@
+## [1.8.1](https://github.com/roggervalf/semantic-release-test/compare/vpy1.8.0...vpy1.8.1) (2026-06-18)
+
+
+### Bug Fixes
+
+* no resolutions [python] ([#79](https://github.com/roggervalf/semantic-release-test/issues/79)) ([19a74b9](https://github.com/roggervalf/semantic-release-test/commit/19a74b980d26691a82cf84a3e372b691d6023cd0))
+
 # [1.8.0](https://github.com/roggervalf/semantic-release-test/compare/vpy1.7.5...vpy1.8.0) (2025-10-21)
 
 
