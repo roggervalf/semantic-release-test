@@ -1,3 +1,10 @@
+## [1.8.2](https://github.com/roggervalf/semantic-release-test/compare/vpy1.8.1...vpy1.8.2) (2026-06-18)
+
+
+### Bug Fixes
+
+* try picomatch resolution [python] ([#81](https://github.com/roggervalf/semantic-release-test/issues/81)) ([a5b9ac3](https://github.com/roggervalf/semantic-release-test/commit/a5b9ac34924bb55cdbd1aa3a1f4becb3c79f7d2c))
+
 ## [1.8.1](https://github.com/roggervalf/semantic-release-test/compare/vpy1.8.0...vpy1.8.1) (2026-06-18)
 
 
