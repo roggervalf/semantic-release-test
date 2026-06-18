@@ -76,11 +76,11 @@
         {
           "releaseRules": [
             {
-              "message": "**\\[python\\]**",
+              "message": "**/*\\[python\\]*",
               "release": false
             },
             {
-              "message": "**\\[elixir\\]**",
+              "message": "**/*\\[elixir\\]*",
               "release": false
             }
           ]
