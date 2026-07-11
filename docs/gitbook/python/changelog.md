@@ -1,3 +1,10 @@
+# [1.14.0](https://github.com/roggervalf/semantic-release-test/compare/vpy1.13.0...vpy1.14.0) (2026-07-10)
+
+
+### Features
+
+* add QueueEvents, queue/worker getters, and missing options [python] ([#100](https://github.com/roggervalf/semantic-release-test/issues/100)) ([4dd1920](https://github.com/roggervalf/semantic-release-test/commit/4dd19202db2a13117c567fd306467a927cb9097c))
+
 # [1.13.0](https://github.com/roggervalf/semantic-release-test/compare/vpy1.12.0...vpy1.13.0) (2026-06-18)
 
 
