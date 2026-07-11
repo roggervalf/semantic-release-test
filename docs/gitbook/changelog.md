@@ -1,3 +1,15 @@
+# [2.0.0](https://github.com/roggervalf/semantic-release-test/compare/v1.14.1...v2.0.0) (2026-07-11)
+
+
+### Bug Fixes
+
+* **example:** testing breaking ([#105](https://github.com/roggervalf/semantic-release-test/issues/105)) ([f982580](https://github.com/roggervalf/semantic-release-test/commit/f9825809c82ae13c86ad2ab791b2295127e4c3bd))
+
+
+### BREAKING CHANGES
+
+* **example:** example
+
 ## [1.14.1](https://github.com/roggervalf/semantic-release-test/compare/v1.14.0...v1.14.1) (2026-07-11)
 
 
