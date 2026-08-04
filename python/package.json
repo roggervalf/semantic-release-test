@@ -51,7 +51,7 @@
         {
           "preset": "angular",
           "presetConfig": {
-            "ignoreCommits": "^(?![^]*\\(python\\))(?![^]*\\[python\\]).*$"
+            "ignoreCommits": "^(?!.*\\(python\\))(?!.*\\[python\\]).*$"
           }
         }
       ],
