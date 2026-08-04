@@ -1,3 +1,16 @@
+# [3.0.0](https://github.com/roggervalf/semantic-release-test/compare/vpy2.0.0...vpy3.0.0) (2026-08-04)
+
+
+### Bug Fixes
+
+* breaking ([#112](https://github.com/roggervalf/semantic-release-test/issues/112)) ([22e8c57](https://github.com/roggervalf/semantic-release-test/commit/22e8c574598e6a07e49cfc7269b8a4e4d2996030))
+* test again (python) ([#114](https://github.com/roggervalf/semantic-release-test/issues/114)) ([ac18f34](https://github.com/roggervalf/semantic-release-test/commit/ac18f34503852ff9b533dfcf7a77b8fdab6a3ab0))
+
+
+### BREAKING CHANGES
+
+* test
+
 # [2.0.0](https://github.com/roggervalf/semantic-release-test/compare/vpy1.14.0...vpy2.0.0) (2026-08-04)
 
 
