@@ -1,3 +1,10 @@
+## [2.0.2](https://github.com/roggervalf/semantic-release-test/compare/v2.0.1...v2.0.2) (2026-08-04)
+
+
+### Bug Fixes
+
+* **deps:** update python dependencies (python) ([#109](https://github.com/roggervalf/semantic-release-test/issues/109)) ([d55f420](https://github.com/roggervalf/semantic-release-test/commit/d55f4202e13a86af0a769338e35a7937fbaaa303))
+
 ## [2.0.1](https://github.com/roggervalf/semantic-release-test/compare/v2.0.0...v2.0.1) (2026-08-04)
 
 
