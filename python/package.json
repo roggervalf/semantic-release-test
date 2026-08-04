@@ -40,6 +40,11 @@
         {
           "releaseRules": [
             {
+              "breaking": true,
+              "message": "!({*,**/*}\\(python\\)*|{*,**/*}\\[python\\]*)",
+              "release": false
+            },
+            {
               "message": "!({*,**/*}\\(python\\)*|{*,**/*}\\[python\\]*)",
               "release": false
             }
