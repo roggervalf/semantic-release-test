@@ -1,3 +1,10 @@
+## [2.0.1](https://github.com/roggervalf/semantic-release-test/compare/v2.0.0...v2.0.1) (2026-08-04)
+
+
+### Bug Fixes
+
+* **deps:** update security patches [security] ([#107](https://github.com/roggervalf/semantic-release-test/issues/107)) ([314ebd0](https://github.com/roggervalf/semantic-release-test/commit/314ebd00349565cbff8a1e76961c5dee477dee20))
+
 # [2.0.0](https://github.com/roggervalf/semantic-release-test/compare/v1.14.1...v2.0.0) (2026-07-11)
 
 
